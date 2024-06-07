@@ -15,7 +15,7 @@ console.log(3
 
 
     // number => 2 to the power 53
-    // bigint
+    // bigint => when number is very very big
     // string => ""
     // bolean => true/false
     // null => standalone value
